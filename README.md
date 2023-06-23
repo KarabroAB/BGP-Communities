@@ -1,7 +1,7 @@
 # AS51519 BGP Communities
 
 | Prefix type                                       | Community             | Large Community                  |
-| ------------------------------------------------- | --------------------- | --------------------------------:|
+| ------------------------------------------------- | --------------------- | -------------------------------- |
 | Prefix learned from Transit                       | 51519:200             | 51519:200:Transit ASN            |
 | Prefix learned from Public Peer                   | 51519:300             | 51519:300:Perring DB IXP ID      |
 | Prefix learned from IXP                           | 51519:310             | 51519:310:Perring DB IXP ID      |
