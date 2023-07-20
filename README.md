@@ -13,7 +13,7 @@ AS51519 tags prefixes that are learned or originated as follows:
 | Prefix learned from IXP                           | 51519:310             | 51519:310:Perring DB IXP ID      |
 | Prefix learned from Private Peer                  | 51519:350             | 51519:350:Peer ASN               |
 | Prefix learned from Peer                          | 51519:Peer ASN        | 51519:320:Peer ASN               |
-| Prefix originated by 51519                        | 51519:100             | 51519:100 :0                     |
+| Prefix originated by AS51519                      | 51519:100             | 51519:100 :0                     |
 | Prefix originated by other Karabro controlled ASN | 51519:120             | 51519:120:Karabro controlled ASN |
 | Prefix originated by Customer                     | 51519:400             | 51519:400:Customer ASN           |
 | Prefix originated by Customer with BGP Access     | 51519:410             | 51519:410:BGP Access ASN         |
